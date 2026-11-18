@@ -1,0 +1,22 @@
+﻿# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+
+# Private uploaded resumes
+uploaded_resumes/
+
+# Environment and secret files
+.env
+.streamlit/secrets.toml
+
+# Temporary files
+.pytest_cache/
+.DS_Store
+Thumbs.db
+
+# Generated report
+ResumeAI_Career_Report.pdf
